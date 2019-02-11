@@ -9,11 +9,11 @@
   "author": "Philip Thomas",
   "license": "ISC",
   "dependencies": {
-    "minimatch": "^3.0.4"
+    "minimatch": "^3.0.4",
+    "aws-sdk": "^2.400.0",
+    "async": "^2.6.1"
   },
   "devDependencies": {
-    "aws-sdk": "^2.400.0",
-    "async": "^2.6.1",
     "grunt": "^1.0.3",
     "grunt-aws-lambda": "^0.13.0"
   }
